@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Campster Refactor
+          Campster Refactor with hooks!
         </a>
       </header>
     </div>
